@@ -1,6 +1,0 @@
-name: register
-main: challengeMode.register
-version: 1.0
-author: TornadoGamerX
-api-version: 1.13
-commands:
